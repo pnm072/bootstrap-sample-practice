@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+.container .row{
+    text-align: center;
+    margin: 40px;
+}
+ .first-main{
+    margin-top: 120px;
+}
+.second-main{
+    margin-top: 120px;
+}
+.third-main{
+    margin-top: 120px;
+}
+.carousel-caption{
+    text-align: justify;
+}
+.carousel-caption h5{
+    font-size: 40px;
+}
